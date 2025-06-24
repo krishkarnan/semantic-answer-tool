@@ -2,5 +2,5 @@ fastapi
 uvicorn
 pandas
 openpyxl
-langchain
-ibm-watsonx-ai
+langchain==0.1.16
+ibm-watsonx-ai==0.2.2
