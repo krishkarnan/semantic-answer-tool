@@ -4,3 +4,5 @@ pandas
 openpyxl
 langchain==0.1.16
 ibm-watsonx-ai==0.2.2
+scikit-learn==1.4.2
+
