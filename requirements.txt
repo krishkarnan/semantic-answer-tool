@@ -2,5 +2,5 @@ fastapi
 uvicorn
 pandas
 openpyxl
-sentence-transformers
-torch 
+langchain
+ibm-watsonx-ai
